@@ -30,6 +30,32 @@ const hero = {
             'Size-shifting from nearly microscopic to gigantic',
             'Maintains strength of normal size in shrunken state'
         ]
+    }, 'captain america': {
+        'Alter ego': 'Steve Rogers',
+        'Species': 'Human mutate',
+        'Abilities': [
+            'Enhanced strength, speed, stamina, durability, agility, reflexes. senses, and mental processing via the super soldier serum',
+            'Master martial artist and hand-to-hand combatant',
+            'Accelerated healing',
+            'Master tatician, strategist, and field commander',
+            'Using vibranium-steel alloy shield'
+        ]
+    }, 'hulk': {
+        'Alter ego': 'Robert Bruce Banner',
+        'Species': 'Human mutate',
+        'Abilities': {
+            'As Bruce Banner': [
+                'Genius level intellect',
+                'Proficient scientist and engineer'
+            ],
+            'As Hulk': [
+                'Superhuman strength, speed, stamina, and durability',
+                'Anger empowerment',
+                'Regeneration',
+                'Shockwave generation',
+                'Gamma ray emission and manipulation'
+            ]
+        }
     }
 }
 
