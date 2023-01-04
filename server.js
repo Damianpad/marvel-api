@@ -6,6 +6,9 @@ const PORT = 8000
 app.use(cors())
 
 const hero = {
+    'unknown': {
+        'error': 'Unknown character'
+    },
     'spider-man': {
         'alterEgo': 'Peter Benjamin Parker',
         'species': 'Human mutate',
@@ -43,7 +46,47 @@ const hero = {
             'Master tatician, strategist, and field commander',
             'Using vibranium-steel alloy shield'
         ]
-    }, 'hulk': {
+    }, 'daredevil' : {
+        'alterEgo': 'Matthew Michael Murdock',
+        'species': 'Human mutate',
+        'placeOfOrigin': '	Hell\'s Kitchen, New York City',
+        'teamAffiliations': [
+            'Avengers',
+            'New Avengers',
+            'Defenders',
+            'Marvel Knights',
+            'The Chaste',
+            'The Hand'
+        ],
+        'abilities': [
+            'Superhuman agility, reflexes, senses, coordination, and balance',
+            'Echolocative radar sense',
+            'Master martial artist, hand-to-hand combatant, and stick fighter',
+            'Expert acrobat and gymnast',
+            'Utilizes billy club with multi-purpose functions',
+            'Expertise in criminology, criminal law, and police procedures'
+        ]
+    }, 'doctor strange': {
+        'alterEgo': 'Stephen Vincent Strange',
+        'species': 'Human',
+        'teamAffiliations': [
+            'Avengers',
+            'Defenders',
+            'Illuminati',
+            'Infinity Watch',
+            'Mignight Sons',
+            'New Avengers',
+            'The Order'
+        ],
+        'abilities': [
+            'Utilizes mystical artifacts, such as the Cloak of Levitation and the Eye of Agamotto',
+            'Mastery of magic',
+            'Gifted physician and surgeon',
+            'Genius-level intellect',
+            'Skilled martial artist'
+        ]
+    },
+        'hulk': {
         'alterEgo': 'Robert Bruce Banner',
         'species': 'Human mutate',
         'abilities': {
@@ -71,7 +114,7 @@ app.get('/api/:heroName', (req, res) => {
     if (hero[herosName]){
         res.json(hero[herosName])
     } else {
-        res.json(hero['ant-man'])
+        res.json(hero['unknown'])
     }
 })
 
