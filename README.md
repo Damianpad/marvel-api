@@ -18,6 +18,12 @@ To get started you'll need to npm install
 npm install
 ```
 
+Please use: https://easy-pink-clam-cap.cyclic.app/api/hero-name
+
+```
+https://easy-pink-clam-cap.cyclic.app/api/hulk
+```
+
 ## Lessons Learned:
 This is my first take at an API so I learned a lot about: JSON, Node.js, Express, and hosting. 
 
