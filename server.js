@@ -4,10 +4,10 @@ const PORT = 8000
 
 const hero = {
     'spider-man': {
-        'Alter ego': 'Peter Benjamin Parker',
-        'Species': 'Human mutate',
-        'Place of origin': 'Queens, New York City',
-        'Abilities': [
+        'alterEgo': 'Peter Benjamin Parker',
+        'species': 'Human mutate',
+        'placeOfOrigin': 'Queens, New York City',
+        'abilities': [
             'Super human strength',
             'Ability to cling to solid surfaces and ceilings',
             'Accelerated healing',
@@ -18,22 +18,22 @@ const hero = {
             'Master martial artist and hand-to-hand combatant'
         ]
     }, 'ant-man': {
-        'Alter ego': [
+        'alterEgo': [
             'Hank Pym',
             'Scott Lang',
             'Eric O\'Grady',
             'Zayn Asghar'
         ],
-        'Abilities': [
+        'abilities': [
             'Super human strength and agility',
             'Leading authority in myrmecology research',
             'Size-shifting from nearly microscopic to gigantic',
             'Maintains strength of normal size in shrunken state'
         ]
     }, 'captain america': {
-        'Alter ego': 'Steve Rogers',
-        'Species': 'Human mutate',
-        'Abilities': [
+        'alterEgo': 'Steve Rogers',
+        'species': 'Human mutate',
+        'abilities': [
             'Enhanced strength, speed, stamina, durability, agility, reflexes. senses, and mental processing via the super soldier serum',
             'Master martial artist and hand-to-hand combatant',
             'Accelerated healing',
@@ -41,14 +41,14 @@ const hero = {
             'Using vibranium-steel alloy shield'
         ]
     }, 'hulk': {
-        'Alter ego': 'Robert Bruce Banner',
-        'Species': 'Human mutate',
-        'Abilities': {
-            'As Bruce Banner': [
+        'alterEgo': 'Robert Bruce Banner',
+        'species': 'Human mutate',
+        'abilities': {
+            'asBruceBanner': [
                 'Genius level intellect',
                 'Proficient scientist and engineer'
             ],
-            'As Hulk': [
+            'asHulk': [
                 'Superhuman strength, speed, stamina, and durability',
                 'Anger empowerment',
                 'Regeneration',
