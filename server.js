@@ -23,7 +23,8 @@ const hero = {
             'Utilizing wrist-mounted web-shooters',
             'Master martial artist and hand-to-hand combatant'
         ]
-    }, 'ant-man': {
+    }, 
+    'ant-man': {
         'alterEgo': [
             'Hank Pym',
             'Scott Lang',
@@ -36,7 +37,8 @@ const hero = {
             'Size-shifting from nearly microscopic to gigantic',
             'Maintains strength of normal size in shrunken state'
         ]
-    }, 'captain america': {
+    }, 
+    'captain america': {
         'alterEgo': 'Steve Rogers',
         'species': 'Human mutate',
         'abilities': [
@@ -46,7 +48,8 @@ const hero = {
             'Master tatician, strategist, and field commander',
             'Using vibranium-steel alloy shield'
         ]
-    }, 'daredevil' : {
+    }, 
+    'daredevil' : {
         'alterEgo': 'Matthew Michael Murdock',
         'species': 'Human mutate',
         'placeOfOrigin': '	Hell\'s Kitchen, New York City',
@@ -66,7 +69,8 @@ const hero = {
             'Utilizes billy club with multi-purpose functions',
             'Expertise in criminology, criminal law, and police procedures'
         ]
-    }, 'doctor strange': {
+    }, 
+    'doctor strange': {
         'alterEgo': 'Stephen Vincent Strange',
         'species': 'Human',
         'teamAffiliations': [
@@ -86,7 +90,59 @@ const hero = {
             'Skilled martial artist'
         ]
     },
-        'hulk': {
+    'falcon': {
+        'alterEgo': 'Samuel Thomas Wilson',
+        'teamAffiliations': [
+            'Avengers',
+            'S.H.I.E.L.D.',
+            'Defenders for a Day',
+            'Heroes for Hire',
+            'Mighty Avengers',
+            'Avengers Unity Squad'
+        ],
+        'abilities': [
+            'Empathic and telepathic link with all birds',
+            'Flight via wing harness',
+            'Skilled martial artist, aerialist, and acrobat',
+            'Proficient tactician and strategist',
+            'Skilled hand-to-hand combatant',
+            'Expert bird trainer'
+        ]
+    },
+    'hawkeye':{
+        'alterEgo': 'Clinton Francis Barton',
+        'placeOfOrigin': 'Waverly, Iowa',
+        'teamAffiliations': [
+            'Avengers',
+            'Avengers Academy',
+            'Defenders',
+            'Great Lakes Avengers',
+            'New Avengers',
+            'Secret Avengers',
+            'S.H.I.E.L.D.',
+            'Thunderbolts',
+            'West Coast Avengers',
+            'Wild Pack',
+            'World Counter-terrorism',
+            'Agency'
+        ],
+        'partnerships': [
+            'Mockingbird',
+            'Kate Bishop',
+            'Black Widow'
+        ],
+        'notableAliases': [
+            'Golden Archer',
+            'Goliath',
+            'Ronin'
+        ],
+        'abilities': [
+            'Master archer and marksman',
+            'Expert tactician, acrobat, martial artist, and hand-to-hand combatant',
+            'Uses a variety of trick arrows'
+        ]
+    },
+    'hulk': {
         'alterEgo': 'Robert Bruce Banner',
         'species': 'Human mutate',
         'abilities': {
