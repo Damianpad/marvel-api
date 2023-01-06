@@ -158,6 +158,59 @@ const hero = {
                 'Gamma ray emission and manipulation'
             ]
         }
+    },
+    'human torch': {
+        'alterEgo': 'Johnny Storm',
+        'species': 'Human mutate',
+        'placeOfOrigin': 'Glenville, New York',
+        'teamAffiliations': [
+            'Fantastic Four',
+            'Avengers',
+            'Future Foundation',
+            'Fantastic Force',
+            'Fantastic Four Incorporated',
+            'Avengers unity Division'
+        ],
+        'notableAliases': 'Invisible Man',
+        'abilities': [
+            'Pyrokinesis',
+            'Fiery form that enables flight, serves as damage shield',
+            'Heat energy absorption',
+            'Resistance to extreme heat'
+        ]
+    },
+    'invisible Woman': {
+        'alterEgo': 'Susan Storm Richards',
+        'species': 'Human mutate',
+        'placeOfOrigin': 'Long Island',
+        'teamAffiliations': [
+            'Fantastic Four',
+            'Avengers',
+            'Lady Liberators',
+            'Fantastic Four Incorporated',
+            'Future Foundation',
+            'Seven Brides Of Set',
+            'Daughters of Liberty'
+        ],
+        'notableAliases': [
+            'Invisible Girl',
+            'Captain Universe',
+            'Susan Benjamin',
+            'Malice',
+            'Mistress of Hate',
+            'Baroness Von Doom',
+            'Tabitha Deneuve'
+        ],
+        'abilities': [
+            'Self-invisibility',
+            'Projective invisibility',
+            'Invisible force field projection',
+            'Generation of protective invisible shields',
+            'Generation of invisible energy constructs',
+            'Power to control and manipulate objects',
+            'Telepathic immunity',
+            'Flight'
+        ]
     }
 }
 
