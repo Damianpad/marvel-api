@@ -211,6 +211,39 @@ const hero = {
             'Telepathic immunity',
             'Flight'
         ]
+    },
+    'iron man': {
+        'alterEgo': 'Anthony Edward Stark',
+        'species': 'human',
+        'placeOfOrigin': 'Long Island, New York',
+        'teamAffiliations': [
+            'Avengers',
+            'A.I. Army',
+            'Department of Defense',
+            'Force Works',
+            'New Avengers',
+            'Guardians of the Galaxy',
+            'Illuminati',
+            'Mighty Avengers',
+            'S.H.I.E.L.D',
+            'Stark Industries',
+            'Stark Resilient'
+        ], 
+        'partnerships': [
+            'War Machine',
+            'Pepper Pots',
+            'Captain America'
+        ],
+        'abilities': [
+            'Proficient scientist and engineer',
+            'Genius level intellect',
+            'Powered armor suit granting' [
+                'Superhuman strength, speed, durability, agility, reflexes, and senses',
+                'Energy repulsor and missile projection',
+                'Regenerative life support',
+                'Supersonic flight'
+            ]
+        ]
     }
 }
 
