@@ -244,6 +244,35 @@ const hero = {
                 'Supersonic flight'
             ]
         ]
+    },
+    'jessica jones': {
+        'alterEgo': 'Jessica Campbell Jones Cage',
+        'species': 'Human mutate',
+        'teamAffiliations': [
+            'New Avengers',
+            'Defenders',
+            'The Pulse Magazine',
+            'A-Force',
+            'Alias Private Investigations',
+            'Daily Bugle'
+        ],
+        'partnerships':[
+            'Luke Cage',
+            'Carol Danvers'
+        ],
+        'notableAliases': [
+            'Jewl',
+            'Knightress',
+            'Power Woman'
+        ],
+        'abilities': [
+            'Superhuman strength and durability',
+            'Accelerated healing factor',
+            'Skilled hand-to-hand combatant',
+            'Psionic Resistance',
+            'Flight',
+            'Expert detective'
+        ]
     }
 }
 
