@@ -273,6 +273,40 @@ const hero = {
             'Flight',
             'Expert detective'
         ]
+    },
+    'miles morales': {
+        'img': '/img/Spider-Man_(Miles_Morales).jpg',
+        'alterEgo': 'Miles Gonzalo Morales',
+        'species': 'Human mutate',
+        'placeOfOrigin': 'Brooklyn, New York City',
+        'teamAffiliations': [
+            'Avengers',
+            'Young Avengers',
+            'Champions',
+            'The Ultimates',
+            'Spider-Army/Web-Warriors'
+        ],
+        'partnerships':[
+            'Peter Parker/Spider-Man',
+            'Gwen Stacy/Spider-Woman',
+            'Kamala Khan/ Ms. Marvel',
+            'Nova/Sam Alexander'
+        ],
+        'Notable Aliases': [
+            'Kid Arachnid',
+            'Caprain Universe',
+            'Spin'
+        ],
+        'abilities': [
+            'Superhuman strength, speed, agility, and reflexes',
+            'Ability to cling to solid surfaces',
+            'Camouflage (invisibility)',
+            'Venom strike/venom blast',
+            'Bio-electric energy threads produced from fingers',
+            'Precognitive spider-sense ability',
+            'Resistance to injury',
+            'Wrist-mounted web-shooters'
+        ]
     }
 }
 
