@@ -275,7 +275,7 @@ const hero = {
         ]
     },
     'miles morales': {
-        'img': '\img\Spider-Man_(Miles_Morales).jpg',
+        'img': 'https://upload.wikimedia.org/wikipedia/en/1/1f/Spider-Man_%28Miles_Morales%29.jpg',
         'alterEgo': 'Miles Gonzalo Morales',
         'species': 'Human mutate',
         'placeOfOrigin': 'Brooklyn, New York City',
