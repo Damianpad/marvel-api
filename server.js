@@ -213,6 +213,7 @@ const hero = {
         ]
     },
     'iron man': {
+        'img': 'https://upload.wikimedia.org/wikipedia/en/4/47/Iron_Man_%28circa_2018%29.png',
         'alterEgo': 'Anthony Edward Stark',
         'species': 'human',
         'placeOfOrigin': 'Long Island, New York',
@@ -246,6 +247,7 @@ const hero = {
         ]
     },
     'jessica jones': {
+        'img': 'https://upload.wikimedia.org/wikipedia/en/6/6e/Jessica_Jones_by_Mike_Mayhew.jpg',
         'alterEgo': 'Jessica Campbell Jones Cage',
         'species': 'Human mutate',
         'teamAffiliations': [
