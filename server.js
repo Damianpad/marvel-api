@@ -309,6 +309,30 @@ const hero = {
             'Resistance to injury',
             'Wrist-mounted web-shooters'
         ]
+    },
+    'quicksilver': {
+        'img': 'https://upload.wikimedia.org/wikipedia/en/7/7c/Quicksilver_%28Marvel_universe_character%29_modern.png',
+        'alterEgo': 'Pietro Django Maximoff',
+        'species': 'Human mutate',
+        'teamAffiliations': [
+            'Avengers',
+            'Brotherhood of Mutants',
+            'Inhumans',
+            'X-Factor',
+            'X-Men'
+        ],
+        'partnerships': 'Scarlet Witch',
+        'notableAliases': [
+            'Pietro Frank',
+            'Mateo Maximoff'
+        ],
+        'abilities': [
+            'Vast superhuman speed, stamina, reaction and reflexes',
+            'Eidetic memory',
+            'Rapid healing',
+            'Creation of high speed winds and tornadoes',
+            'Time manipulation'
+        ]
     }
 }
 
