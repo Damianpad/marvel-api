@@ -333,6 +333,55 @@ const hero = {
             'Creation of high speed winds and tornadoes',
             'Time manipulation'
         ]
+    }, 
+    'she hulk': {
+        'img': 'https://upload.wikimedia.org/wikipedia/en/7/7e/She-Hulk_%28Jennifer_Walter%29_2.png',
+        'alterEgo': 'Jennifer "Jen" Walters',
+        'species': 'Human mutate',
+        'teamAffiliations': [
+            'Avengers',
+            'Ancient Order of the Shield',
+            'A-Force',
+            'Defenders',
+            'Fantastic Force',
+            'Fantastic Four',
+            'Fearsome Four',
+            'Future Foundation',
+            'Heroes for Hire',
+            'Hulkbusters',
+            'The Initiative',
+            'Lady Liberators',
+            'Mighty Avengers',
+            'S.H.I.E.L.D.',
+            'Seven Brides Of Set'
+        ],
+        'partnerships': [
+            'Hulk',
+            'Awesome Andy'
+        ],
+        'notableAliases': [
+            'Agent Walters',
+            'Earth-Sow',
+            'Ghost-Girl',
+            'Glamazonia',
+            'Iron Hulk',
+            'Jennifer Smith',
+            'Jenny Jameson-Walters',
+            'Mrs. Jameson',
+            'Savage She-Hulk',
+            'Sensational She-Hulk',
+            'She-Xemnu',
+            'Thunder Hulk',
+            'Winter Hulk'
+        ],
+        'abilities': [
+            'Transformation',
+            'Superhuman strength, stamina, durability, speed, and leaping',
+            'Healing factor',
+            'Gamma manipulation',
+            'Body switching',
+            'Expertise in criminology'
+        ]
     }
 }
 
