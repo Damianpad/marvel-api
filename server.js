@@ -382,6 +382,27 @@ const hero = {
             'Body switching',
             'Expertise in criminology'
         ]
+    },
+    'squirrel girl': {
+        'img': 'https://upload.wikimedia.org/wikipedia/en/e/e2/Unbeatable_Squirrel_Girl.jpg',
+        'alterEgo': 'Doreen Allene Green',
+        'species': 'Human Mutant',
+        'teamAffiliations': [
+            'Great Lakes Avengers',
+            'Avengers Idea Mechanics',
+            'U.S.Avengers'
+        ],
+        'partnerships': [
+            'Monkey Joe',
+            'Tippy-Toe'
+        ],
+        'abilities': [
+            'Superhuman agility, senses, and strengt',
+            'Prehensile tail',
+            'Razor-sharp claws',
+            'Retractable knuckle spikes',
+            'Ability to communicate with squirrels'
+        ]
     }
 }
 
