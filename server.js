@@ -160,6 +160,7 @@ const hero = {
         }
     },
     'human torch': {
+        'img': 'https://upload.wikimedia.org/wikipedia/en/c/c7/Human_Torch_%28Johnny_Storm%29.png',
         'alterEgo': 'Johnny Storm',
         'species': 'Human mutate',
         'placeOfOrigin': 'Glenville, New York',
